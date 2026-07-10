@@ -24,10 +24,21 @@ El edificio "El Mirador" (160 departamentos, 20 pisos) enfrenta problemas de ges
 
 ---
 
-## 📅 Metodología y Control de Versiones
+📅 Metodología y Control de Versiones.
 
 - **Metodología:** Modelo en cascada, con fases secuenciales documentadas en la Carta Gantt.
 - **Versionamiento:** Semántico (MAJOR.MINOR.PATCH) aplicado al prototipo y documentos, con repositorio GitHub como fuente de verdad.
-- **Commits:** Cada documento fue versionado con mensajes descriptivos (ej. "Agrega diagrama de clases v1.0").
+
+Control de versiones
+
+| Versión | Fecha | Herramienta | Descripción |
+|---------|-------|-------------|-------------|
+| v0.1.0 | 14/06/2026 | Figma | Estructura de navegación y flujo general |
+| v0.2.0 | 15/06/2026 | Figma | Login y Dashboard principal |
+| v0.3.0 | 15/06/2026 | Figma | Módulo Morosidad y vista de morosos |
+| v0.4.0 | 15/06/2026 | Figma | Flujo RF-24 completo: filtros, resultados, exportación |
+| v0.4.1 | 15/06/2026 | Figma | Ajustes visuales y consistencia de componentes |
+| v0.5.0 | 15/06/2026 | Figma Make | Prototipo interactivo funcional generado con IA |
+| v1.0.0 | 22/06/2026 | GitHub + Figma | Versión final entregable |
 
 ---
